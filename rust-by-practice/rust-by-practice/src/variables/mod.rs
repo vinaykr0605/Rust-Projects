@@ -1,0 +1,10 @@
+#![allow(dead_code, unused_variables, unused_assignments)]
+pub mod variables1;
+pub mod variables2;
+pub mod variables3;
+pub mod variables4;
+pub mod variables5;
+pub mod variables6;
+pub mod variables7;
+pub mod variables8;
+pub mod variables9;

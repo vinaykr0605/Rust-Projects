@@ -1,7 +1,5 @@
-mod generics;
+mod variables;
 
-use generics::traits;
-
-fn main() {
-    traits::trait1::main();
+fn main(){
+    variables::variables9::main();
 }
