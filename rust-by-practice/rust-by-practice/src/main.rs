@@ -1,5 +1,6 @@
-mod variables;
+mod basic_types;
+use basic_types::numbers;
 
 fn main(){
-    variables::variables9::main();
+    numbers::numbers11::main();
 }
