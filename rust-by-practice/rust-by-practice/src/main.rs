@@ -1,6 +1,6 @@
 mod basic_types;
-use basic_types::char_bool_unit;
+use basic_types::functions;
 
 fn main(){
-    char_bool_unit::char_bool_unit6::main();
+    functions::functions5::main();
 }
