@@ -1,6 +1,7 @@
-mod basic_types;
-use basic_types::functions;
+mod ownership_and_borrowing;
+
+use ownership_and_borrowing::ownership;
 
 fn main(){
-    functions::functions5::main();
+    ownership::ownership9::main();
 }

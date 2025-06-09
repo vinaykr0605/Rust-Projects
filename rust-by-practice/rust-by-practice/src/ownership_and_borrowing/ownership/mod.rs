@@ -1,0 +1,10 @@
+#![allow(dead_code, unused_variables, unused_assignments)]
+pub mod ownership1;
+pub mod ownership2;
+pub mod ownership3;
+pub mod ownership4;
+pub mod ownership5;
+pub mod ownership6;
+pub mod ownership7;
+pub mod ownership8;
+pub mod ownership9;
