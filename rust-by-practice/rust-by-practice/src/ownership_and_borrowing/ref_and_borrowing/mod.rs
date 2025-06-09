@@ -1,0 +1,12 @@
+#![allow(dead_code, unused_variables, unused_mut)]
+pub mod ref_and_borrowing1;
+pub mod ref_and_borrowing2;
+pub mod ref_and_borrowing3;
+pub mod ref_and_borrowing4;
+pub mod ref_and_borrowing5;
+pub mod ref_and_borrowing6;
+pub mod ref_and_borrowing7;
+pub mod ref_and_borrowing8;
+pub mod ref_and_borrowing9;
+pub mod ref_and_borrowing10;
+pub mod ref_and_borrowing11;
