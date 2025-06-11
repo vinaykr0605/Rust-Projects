@@ -1,7 +1,7 @@
 mod compound_types;
 
-use compound_types::array;
+use compound_types::slice;
 
 fn main(){
-    array::array6::main();
+    slice::slice6::main();
 }
