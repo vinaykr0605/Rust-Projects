@@ -1,7 +1,7 @@
 mod compound_types;
 
-use compound_types::slice;
+use compound_types::tuple;
 
 fn main(){
-    slice::slice6::main();
+    tuple::tuple6::main();
 }
