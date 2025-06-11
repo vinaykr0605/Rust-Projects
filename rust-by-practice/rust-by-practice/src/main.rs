@@ -1,7 +1,7 @@
-mod ownership_and_borrowing;
+mod compound_types;
 
-use ownership_and_borrowing::ref_and_borrowing;
+use compound_types::string;
 
 fn main(){
-    ref_and_borrowing::ref_and_borrowing10::main();
+    string::string11::main();
 }
