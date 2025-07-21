@@ -1,6 +1,6 @@
-mod flow_control;
+mod method_associated_functions;
 
 // use flow_control;
 fn main(){
-   flow_control::flow_control2::main();
+   method_associated_functions::method6::main();
 }
